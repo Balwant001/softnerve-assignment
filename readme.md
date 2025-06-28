@@ -3,7 +3,7 @@ Automated Book Publication Workflow
 
 1. **Clone the repository:**  
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Balwant001/softnerve-assignment
     ```
 
 2. **Install dependencies:**  
